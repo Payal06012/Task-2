@@ -301,8 +301,19 @@ hr {
 
 
 @media (max-width: 600px) {
+
+ 
   .bottom {
     display: none;
+  }
+
+  .SecA2 .content{
+    padding : 10px ;
+   
+  }
+
+  .sec2A{
+    padding :40px ;
   }
 
   p {
@@ -338,7 +349,7 @@ hr {
     flex-direction: column;
   }
 
-  .sec2A h2 {
+   .sec2A h2 {
     font-size: 26px;
   }
 
